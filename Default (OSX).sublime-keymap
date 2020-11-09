@@ -1,0 +1,6 @@
+[
+	{ "keys": ["f2"], "command": "lsp_symbol_rename" },
+	{ "keys": ["f12"], "command": "lsp_symbol_definition" },
+	{ "keys": ["super+option+r"], "command": "lsp_document_symbols" },
+	{ "keys": ["super+option+h"], "command": "lsp_hover" }
+]

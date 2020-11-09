@@ -1,0 +1,5 @@
+{
+	"cmd": ["go",  "test",  "./..."],
+	"working_dir": "$project_path",
+	"file_regex": "^([^:\\n]+)\\:(\\d+)\\:(\\d+)\\: ([^\\n]+)$"
+}
