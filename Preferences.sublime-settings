@@ -1,17 +1,19 @@
 {
+	"auto_complete_commit_on_tab": true,
+	"auto_complete_cycle": true,
+	"auto_complete_with_fields": true,
 	"color_scheme": "Packages/Color Scheme - Default/Mariana.sublime-color-scheme",
 	"draw_white_space": "all",
 	"font_size": 14,
 	"highlight_line": true,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
 	"rulers":
 	[
 		80
 	],
-	"theme": "Adaptive.sublime-theme",
-
-	"auto_complete_commit_on_tab": true,
-	"auto_complete_with_fields": true,
-	"auto_complete_cycle": true,
-
-	"trim_trailing_white_space_on_save": true
+	"scroll_past_end": true,
+	"theme": "Adaptive.sublime-theme"
 }
