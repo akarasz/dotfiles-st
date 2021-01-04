@@ -8,6 +8,8 @@
 		"Babel",
 		"CSS3",
 		"LSP",
-		"Package Control"
+		"nginx",
+		"Package Control",
+		"Pretty JSON"
 	]
 }
