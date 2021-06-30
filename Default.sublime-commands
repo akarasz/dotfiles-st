@@ -1,0 +1,16 @@
+[
+	{ 
+		"caption": "Macro: Keep lines with selection",
+		"command": "run_macro_file",
+		"args": {
+			"file": "Packages/User/Szevasz.sublime-macro"
+		}
+	},
+	{
+		"caption": "Invert selection",
+		"command": "permute_lines", 
+		"args": {
+			"operation": "reverse"
+		}
+	}
+]

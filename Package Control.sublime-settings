@@ -5,11 +5,19 @@
 	],
 	"installed_packages":
 	[
-		"Babel",
+		"A File Icon",
 		"CSS3",
+		"Dockerfile Syntax Highlighting",
 		"LSP",
 		"nginx",
 		"Package Control",
-		"Pretty JSON"
-	]
+		"PowerShell",
+		"Pretty JSON",
+		"Terraform",
+		"Todo",
+	],
+	"repositories":
+	[
+		"https://github.com/sublimelsp/repository"
+	],
 }
